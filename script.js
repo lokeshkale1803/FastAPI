@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:8000'; // Make sure this matches your FastAPI server
+const API_BASE_URL = 'https://benevolent-beijinho-a24a92.netlify.app/'; // Make sure this matches your FastAPI server
 
 const studentForm = document.getElementById('student-form');
 const studentsTbody = document.getElementById('students-tbody');
